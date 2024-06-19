@@ -21,15 +21,15 @@
 # Скриншоты:
 
 ![Страница авторизации](https://github.com/axxcel/StudentControl/blob/main/screens/1.jpg)
-<div align="center" width="785">Страница авторизации</div>
+<div >Страница авторизации</div>
 </br> </br> </br>
 
 ![Страница гостя(регистрация)](https://github.com/axxcel/StudentControl/blob/main/screens/1.jpg?raw=true)
-<div align="center">Страница гостя(регистрация)</div>
+<div>Страница гостя(регистрация)</div>
 </br> </br> </br>
 
 ![Главная страница администратора](https://github.com/axxcel/StudentControl/blob/main/screens/4.jpg?raw=true)
-<div align="center">Главная страница администратора</div>
+<di>Главная страница администратора</div>
 
 ![Просмотр специальностей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/screens/3.jpg?raw=true)
 <div align="center">Просмотр специальностей от роли администратора</div>
