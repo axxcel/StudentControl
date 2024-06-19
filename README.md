@@ -19,8 +19,9 @@
 3. SQLite - представляет библиотеку, которая написанна на языке C (ANSI-C) и которая реализует движок реляционных баз данных.На сегодняшний день SQLite, возможно, самая используемая система баз данных.
 
 # Скриншоты:
+<div align="center">
 ![Страница авторизации](https://github.com/axxcel/StudentControl/blob/main/screens/1.jpg)
-<div align="center">Страница авторизации</div>
+Страница авторизации</div>
 </br> </br> </br>
 
 ![Страница гостя(регистрация)](https://github.com/axxcel/StudentControl/blob/main/screens/1.jpg?raw=true)
