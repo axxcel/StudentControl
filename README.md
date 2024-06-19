@@ -21,7 +21,7 @@
 # Скриншоты:
 
 ![Страница авторизации](https://github.com/axxcel/StudentControl/blob/main/screens/1.jpg)
-<div align="center">Страница авторизации</div>
+<div align="center" width="785">Страница авторизации</div>
 </br> </br> </br>
 
 ![Страница гостя(регистрация)](https://github.com/axxcel/StudentControl/blob/main/screens/1.jpg?raw=true)
