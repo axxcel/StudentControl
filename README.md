@@ -19,13 +19,29 @@
 3. SQLite - представляет библиотеку, которая написанна на языке C (ANSI-C) и которая реализует движок реляционных баз данных.На сегодняшний день SQLite, возможно, самая используемая система баз данных.
 
 # Скриншоты:
-![Главная страница](https://github.com/axxcel/StudentControl/blob/main/car/screens/1.jpg?raw=true)
+![Страница авторизации](https://github.com/axxcel/StudentControl/blob/main/car/screens/8.jpg?raw=true)
 <div align="center">Страница авторизации</div>
 </br> </br> </br>
 
-![Отображение выбранной карточки автомобиля](https://github.com/axxcel/StudentControl/blob/main/car/screens/2.jpg?raw=true)
+![Страница гостя(регистрация)](https://github.com/axxcel/StudentControl/blob/main/car/screens/1.jpg?raw=true)
 <div align="center">Страница гостя(регистрация)</div>
 </br> </br> </br>
 
-![Чек собранного автомобиля](https://github.com/axxcel/AutoMarket/blob/main/car/screens/BuyCar.jpg?raw=true)
-<div align="center">Чек собранного автомобиля</div>
+![Главная страница администратора](https://github.com/axxcel/StudentControl/blob/main/car/screens/4.jpg?raw=true)
+<div align="center">Главная страница администратора</div>
+
+![Просмотр специальностей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/car/screens/3.jpg?raw=true)
+<div align="center">Просмотр специальностей от роли администратора</div>
+
+![Добавление новой специальности](https://github.com/axxcel/StudentControl/blob/main/car/screens/7.jpg?raw=true)
+<div align="center">Добавление новой специальности</div>
+
+![Просмотр списка пользователей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/car/screens/2.jpg?raw=true)
+<div align="center">Просмотр списка пользователей от роли администратора</div>
+
+![Главная страница абитуриента](https://github.com/axxcel/StudentControl/blob/main/car/screens/5.jpg?raw=true)
+<div align="center">Главная страница абитуриента</div>
+
+![Главная страница Редактора](https://github.com/axxcel/StudentControl/blob/main/car/screens/6.jpg?raw=true)
+<div align="center">Главная страница редактора</div>
+
