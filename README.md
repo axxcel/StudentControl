@@ -19,29 +19,29 @@
 3. SQLite - представляет библиотеку, которая написанна на языке C (ANSI-C) и которая реализует движок реляционных баз данных.На сегодняшний день SQLite, возможно, самая используемая система баз данных.
 
 # Скриншоты:
-![Страница авторизации](https://github.com/axxcel/StudentControl/blob/main/car/screens/8.jpg?raw=true)
+![Страница авторизации](https://github.com/axxcel/StudentControl/blob/main/screens/1.jpg)
 <div align="center">Страница авторизации</div>
 </br> </br> </br>
 
-![Страница гостя(регистрация)](https://github.com/axxcel/StudentControl/blob/main/car/screens/1.jpg?raw=true)
+![Страница гостя(регистрация)](https://github.com/axxcel/StudentControl/blob/main/screens/1.jpg?raw=true)
 <div align="center">Страница гостя(регистрация)</div>
 </br> </br> </br>
 
-![Главная страница администратора](https://github.com/axxcel/StudentControl/blob/main/car/screens/4.jpg?raw=true)
+![Главная страница администратора](https://github.com/axxcel/StudentControl/blob/main/screens/4.jpg?raw=true)
 <div align="center">Главная страница администратора</div>
 
-![Просмотр специальностей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/car/screens/3.jpg?raw=true)
+![Просмотр специальностей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/screens/3.jpg?raw=true)
 <div align="center">Просмотр специальностей от роли администратора</div>
 
-![Добавление новой специальности](https://github.com/axxcel/StudentControl/blob/main/car/screens/7.jpg?raw=true)
+![Добавление новой специальности](https://github.com/axxcel/StudentControl/blob/main/screens/7.jpg?raw=true)
 <div align="center">Добавление новой специальности</div>
 
-![Просмотр списка пользователей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/car/screens/2.jpg?raw=true)
+![Просмотр списка пользователей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/screens/2.jpg?raw=true)
 <div align="center">Просмотр списка пользователей от роли администратора</div>
 
-![Главная страница абитуриента](https://github.com/axxcel/StudentControl/blob/main/car/screens/5.jpg?raw=true)
+![Главная страница абитуриента](https://github.com/axxcel/StudentControl/blob/main/screens/5.jpg?raw=true)
 <div align="center">Главная страница абитуриента</div>
 
-![Главная страница Редактора](https://github.com/axxcel/StudentControl/blob/main/car/screens/6.jpg?raw=true)
+![Главная страница Редактора](https://github.com/axxcel/StudentControl/blob/main/screens/6.jpg?raw=true)
 <div align="center">Главная страница редактора</div>
 
