@@ -32,17 +32,17 @@
 <di>Главная страница администратора</div>
 
 ![Просмотр специальностей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/screens/3.jpg?raw=true)
-<div align="center">Просмотр специальностей от роли администратора</div>
+<div>Просмотр специальностей от роли администратора</div>
 
 ![Добавление новой специальности](https://github.com/axxcel/StudentControl/blob/main/screens/7.jpg?raw=true)
-<div align="center">Добавление новой специальности</div>
+<div>Добавление новой специальности</div>
 
 ![Просмотр списка пользователей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/screens/2.jpg?raw=true)
-<div align="center">Просмотр списка пользователей от роли администратора</div>
+<div>Просмотр списка пользователей от роли администратора</div>
 
 ![Главная страница абитуриента](https://github.com/axxcel/StudentControl/blob/main/screens/5.jpg?raw=true)
-<div align="center">Главная страница абитуриента</div>
+<div>Главная страница абитуриента</div>
 
 ![Главная страница Редактора](https://github.com/axxcel/StudentControl/blob/main/screens/6.jpg?raw=true)
-<div align="center">Главная страница редактора</div>
+<div>Главная страница редактора</div>
 
