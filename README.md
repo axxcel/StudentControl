@@ -29,7 +29,7 @@
 </br> </br> </br>
 
 ![Главная страница администратора](https://github.com/axxcel/StudentControl/blob/main/screens/4.jpg?raw=true)
-<di>Главная страница админа</div>
+<div>Главная страница админа</div>
 </br> </br> </br>
 
 ![Просмотр специальностей от роли администратора](https://github.com/axxcel/StudentControl/blob/main/screens/3.jpg?raw=true)
